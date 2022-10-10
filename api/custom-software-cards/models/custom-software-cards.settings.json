@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "custom_software_cards",
   "info": {
-    "name": "CustomSoftwareCards"
+    "name": "CustomSoftwareCards",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -12,10 +13,10 @@
   "pluginOptions": {},
   "attributes": {
     "Header": {
-      "type": "string"
+      "type": "text"
     },
     "SubHeader": {
-      "type": "string"
+      "type": "text"
     },
     "Content": {
       "type": "json"

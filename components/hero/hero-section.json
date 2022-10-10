@@ -8,14 +8,14 @@
   "options": {},
   "attributes": {
     "Header": {
-      "type": "string",
+      "type": "text",
       "required": true
     },
     "Text": {
-      "type": "string"
+      "type": "text"
     },
     "SubText": {
-      "type": "string"
+      "type": "text"
     },
     "Image": {
       "model": "file",

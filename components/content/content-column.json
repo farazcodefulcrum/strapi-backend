@@ -2,15 +2,16 @@
   "collectionName": "components_content_content_columns",
   "info": {
     "name": "ContentColumn",
-    "icon": "align-justify"
+    "icon": "align-justify",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "Header": {
-      "type": "string"
+      "type": "text"
     },
     "Text": {
-      "type": "string"
+      "type": "text"
     },
     "Img": {
       "collection": "file",

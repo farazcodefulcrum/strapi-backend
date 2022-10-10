@@ -2,12 +2,13 @@
   "collectionName": "components_faqs_fa_qs",
   "info": {
     "name": "FAQs",
-    "icon": "align-right"
+    "icon": "align-right",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "Header": {
-      "type": "string"
+      "type": "text"
     },
     "Content": {
       "type": "richtext"

@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "codefulcrum_in_numbers",
   "info": {
-    "name": "CodefulcrumInNumbers"
+    "name": "CodefulcrumInNumbers",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -12,7 +13,7 @@
   "pluginOptions": {},
   "attributes": {
     "Headline": {
-      "type": "string"
+      "type": "text"
     },
     "ProjectsData": {
       "type": "json"

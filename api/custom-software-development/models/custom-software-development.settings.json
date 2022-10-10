@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "custom_software_developments",
   "info": {
-    "name": "CustomSoftwareDevelopment"
+    "name": "CustomSoftwareDevelopment",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -12,10 +13,10 @@
   "pluginOptions": {},
   "attributes": {
     "Header": {
-      "type": "string"
+      "type": "text"
     },
     "Text": {
-      "type": "string"
+      "type": "text"
     },
     "Content": {
       "type": "json"
